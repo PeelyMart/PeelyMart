@@ -8,10 +8,19 @@ I’m a **second-year BSIT student** at **De LaSalle University**, passionate ab
 - **Current Stack:** Full web stack projects using PHP, JS, HTML, and CSS
 
 ## 🚀 Learning Milestones
+### 🔍 PokeSearch Web App *(In Progress)*
+A web application exploring frontend–backend interaction using modern web technologies.  
+🔗 https://github.com/PeelyMart/PokeSearch
 
-### 📅 CalendarJournalApp (Java)
+
+### 🗃️ SQL Database Project ----------
+A focused project centered on database design, queries, and relational data handling.
+
+### 📅 CalendarJournalApp (Java)  ----------
+**2025 · First Year · Third Term**
+🔗 Repository: https://github.com/PeelyMart/CalendarJournalApp
+
 Part of my university’s **Object-Oriented Programming** course, this project marked my transition into building **full Java applications**.
-
 **What this milestone taught me:**
 - Full-fledged Java application development
 - UX-focused design for smooth, intuitive workflows
@@ -19,14 +28,6 @@ Part of my university’s **Object-Oriented Programming** course, this project m
 - Surface-level MVC planning and structure
 - Manual GUI development using **Java Swing**
 
-🔗 Repository: https://github.com/PeelyMart/CalendarJournalApp
-
-### 🗃️ SQL Database Project *(Coming Next)*
-A focused project centered on database design, queries, and relational data handling.
-
-### 🔍 PokeSearch Web App *(In Progress)*
-A web application exploring frontend–backend interaction using modern web technologies.  
-🔗 https://github.com/PeelyMart/PokeSearch
 
 ## Goals
 - Building skills to **freelance in web development**
