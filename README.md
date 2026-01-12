@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**PeelyMart/PeelyMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a **second-year BSIT student** at **De LaSalle University**, passionate about technology and building real-world skills. I’m currently exploring **web development**, **systems administration**, and **cybersecurity**.
 
-Here are some ideas to get you started:
+## Skills & Learning
+- **Programming Languages:** C, Java, PHP, JavaScript, HTML, CSS
+- **Current Stack:** Full web stack projects using PHP, JS, HTML, and CSS  
+- **Ongoing Projects:** [Latest Web Project Repo](https://github.com/yourusername/your-repo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Building skills to **freelance in web development**
+- Pursuing a **serious career** in **systems administration** or **cybersecurity**
+
+## Fun Fact
+- I enjoy **learning by doing**, building projects, and exploring the latest in tech trends.
