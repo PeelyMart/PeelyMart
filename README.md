@@ -9,6 +9,7 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 
 ## Learning Milestones
 
+*The project may not be fully described as this aims to be brief, for more information I made an effort to update the README files of each project!*
 ### • PokeSearch Web App *(In Progress)*
 A web application exploring frontend–backend interaction using modern web technologies.  
 🔗 https://github.com/PeelyMart/PokeSearch
