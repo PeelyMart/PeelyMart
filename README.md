@@ -14,7 +14,7 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 ### • PokeSearch Web App (Personal Development)
 **2026 · Second Year · Personal Project**
 
-A web application integrating a public REST API*
+*A web application integrating a public REST API*
 
 🔗 https://github.com/PeelyMart/PokeSearch
 
