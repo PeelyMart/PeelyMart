@@ -53,6 +53,17 @@ This milestone strengthened my understanding of **project coordination** in a la
 
 🔗 https://github.com/PeelyMart/QuickServePos
 
+
+
+<p align="center">
+  <img src="calendarApp/login-ui.png" style="width:250px; height:160px; object-fit:cover;">
+  <img src="calendarApp/dashboard-ui.png" style="width:250px; height:160px; object-fit:cover;">
+</p>
+
+<p align="center">
+  <em>The login page and dashboard of quickServe</em>
+</p>
+
 ### • CalendarJournalApp (Java)
 **2025 · First Year · Third Term**
 
