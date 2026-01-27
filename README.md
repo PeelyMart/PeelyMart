@@ -11,6 +11,18 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 
 *The project may not be fully described as this aims to be brief; for more information, I made an effort to update the README files of each project!*
 
+
+<p align="center">
+  <img src="pokeSearch/main-ui.png" style="width:250px; height:160px; object-fit:cover;">
+  <img src="pokeSearch/multi-type.png" style="width:250px; height:160px; object-fit:cover;">
+</p>
+
+<p align="center">
+  <em>search-page</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>results-page</em>
+</p>
+
+
 ### • PokeSearch Web App (Personal Development)
 **2026 · Second Year · Personal Project**
 
