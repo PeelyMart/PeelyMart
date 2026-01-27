@@ -40,7 +40,7 @@ Alongside API data fetching, the project required implementing conditional logic
 </p>
 
 <p align="center">
-  <em>The login page and dashboard of quickServe</em>
+  <em>The login page and dashboard of quickServe | Contributor of initial layout and flow plan — Developed using JavaFX by another member</em>
 </p>
 
 
@@ -61,7 +61,7 @@ This milestone strengthened my understanding of **project coordination** in a la
 </p>
 
 <p align="center">
-  <em>The login page and dashboard of quickServe</em>
+  <em>The login page and dashboard of CalendarJournalApp | Main contributor — Developed using JavaSwing</em>
 </p>
 
 ### • CalendarJournalApp (Java)
