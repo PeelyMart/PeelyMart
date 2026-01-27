@@ -35,8 +35,8 @@ Alongside API data fetching, the project required implementing conditional logic
 
 
 <p align="center">
-  <img src="quickServer/login-ui.png" style="width:250px; height:160px; object-fit:cover;">
-  <img src="pokeSearch/dashboard.png" style="width:250px; height:160px; object-fit:cover;">
+  <img src="quickServe/login-ui.png" style="width:250px; height:160px; object-fit:cover;">
+  <img src="quickServe/dashboard.png" style="width:250px; height:160px; object-fit:cover;">
 </p>
 
 <p align="center">
