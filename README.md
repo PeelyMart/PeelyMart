@@ -34,6 +34,16 @@ A web application that demonstrates frontend interaction with a public REST API 
 Alongside API data fetching, the project required implementing conditional logic for dynamic asset rendering. Pokémon type data retrieved from the API is processed to determine which locally stored sprite images should be displayed. The logic supports both single-type and multi-type Pokémon, ensuring accurate visual representation based on attribute combinations.
 
 
+<p align="center">
+  <img src="quickServer/login-ui.png" style="width:250px; height:160px; object-fit:cover;">
+  <img src="pokeSearch/dashboard.png" style="width:250px; height:160px; object-fit:cover;">
+</p>
+
+<p align="center">
+  <em>The login page and dashboard of quickServe</em>
+</p>
+
+
 ### • QuickServePOS — SQL Database Project
 **2025 · Second Year · First Term**
 
