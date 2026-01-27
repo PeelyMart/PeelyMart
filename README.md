@@ -14,6 +14,7 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 ### • PokeSearch Web App (Personal Development)
 **2026 · Second Year · Personal Project
 *A web application integrating a public REST API*
+
 🔗 https://github.com/PeelyMart/PokeSearch
 
 A web application that demonstrates frontend interaction with a public REST API using JavaScript’s fetch() method. The project focuses on API consumption, asynchronous programming, and clean UI design using CSS. Developed as early preparation for my Integrative Programming course to strengthen my understanding of modern web development fundamentals. 
