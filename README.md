@@ -54,7 +54,7 @@ This milestone strengthened my understanding of **project coordination** in a la
 
 🔗 https://github.com/PeelyMart/QuickServePos
 
-### • CalendarJournalApp (Java)
+## • CalendarJournalApp (Java)
 **2025 · First Year · Third Term**
 
 A calendar desktop-application 
