@@ -18,8 +18,7 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 </p>
 
 <p align="center">
-  <em>search-page</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>results-page</em>
+  <em>Search page and results page of PokeSearch web app</em>
 </p>
 
 
