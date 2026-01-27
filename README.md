@@ -9,10 +9,17 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 
 ## Learning Milestones
 
-*The project may not be fully described as this aims to be brief, for more information, I made an effort to update the README files of each project!*
-### • PokeSearch Web App *(In Progress)*
-A web application exploring frontend–backend interaction using modern web technologies.  
+*The project may not be fully described as this aims to be brief; for more information, I made an effort to update the README files of each project!*
+
+### • PokeSearch Web App (Personal Development)
+**2026 · Second Year · Personal Project
+*A web application integrating a public REST API*
 🔗 https://github.com/PeelyMart/PokeSearch
+
+A web application that demonstrates frontend interaction with a public REST API using JavaScript’s fetch() method. The project focuses on API consumption, asynchronous programming, and clean UI design using CSS. Developed as early preparation for my Integrative Programming course to strengthen my understanding of modern web development fundamentals. 
+
+Alongside API data fetching, the project required implementing conditional logic for dynamic asset rendering. Pokémon type data retrieved from the API is processed to determine which locally stored sprite images should be displayed. The logic supports both single-type and multi-type Pokémon, ensuring accurate visual representation based on attribute combinations.
+
 
 ### • QuickServePOS — SQL Database Project
 **2025 · Second Year · First Term**
