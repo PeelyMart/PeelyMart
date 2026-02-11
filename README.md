@@ -11,6 +11,21 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 
 *The project may not be fully described as this aims to be brief; for more information, I made an effort to update the README files of each project!*
 
+## • AECMS (Integrative Programming Project)
+**2026 · Second Year · Ongoing**
+
+*A web application for online sellers using HTML/CSS/JS/PHP/SQL*
+
+🔗 https://github.com/PeelyMart/AECMS
+
+<p align="center">
+  <img src="" style="width:250px; height:160px; object-fit:cover;">
+  <img src="" style="width:250px; height:160px; object-fit:cover;">
+</p>
+
+<p align="center">
+  <em>Login and Register Page by ME!</em>
+</p>
 
 
 ## • PokeSearch Web App (Personal Development)
