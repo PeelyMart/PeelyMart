@@ -21,7 +21,7 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 🔗 https://github.com/ig21xn-dlsu/AY2526T3-CCDEVAP-MP.git
 
 <p align="center">
-  <img src="aecms/login.png" style="width:544px; height:306px; object-fit:cover;">
+  <img src="padpal/PdPlAPI.gif" style="width:544px; height:306px; object-fit:cover;">
   <img src="aecms/register.png" style="width:544px; height:306px; object-fit:cover;">
 </p>
 
