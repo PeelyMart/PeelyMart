@@ -12,8 +12,10 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 *The project may not be fully described as this aims to be brief; for more information, I made an effort to update the README files of each project!*
 
 ## • PadPal (Web Application Project)
-**2026 · Second Year · Course work · High Marks**
-**Solo full stack development for PadPal for Managers!**
+**2026 · Second Year · Course work · High Marks** 
+
+**Solo full stack development for PadPal for Managers!** 
+
 **🧠 API Integration (Nominatim / OpenStreetMap) · MERN Infrastructure · Multi-Phase Development · Full stack development** 
 
 *An all-in-one platform for rental space owners and students looking for roomates and spaces* 
@@ -32,8 +34,11 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 
 ## • AECMS (Integrative Programming Project)
 **2026 · Second Year · Course work · High Marks**
+
 **Front and and backend exposure on XAMMP Stack**
+
 **🧠 CRUD ARCHITECTURE FOR WEB · PHP foundations · HTML/CSS Foundations** 
+
 
 *A web application for online sellers using HTML/CSS/JS/PHP/SQL*
 
