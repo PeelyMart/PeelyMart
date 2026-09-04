@@ -4,12 +4,10 @@
 I’m a **third-year BSIT student** at **De La Salle University**, passionate about technology and building real-world skills. I’m currently exploring **web development**, **systems administration**, and **cybersecurity**.
 
 ## Skills & Learning
-- **Programming Languages:** C, Java, PHP, JavaScript, HTML, CSS
-- **Current Stack:** Full web stack projects using PHP, JS, HTML, CSS
+- **Programming Languages:** C, Java, PHP, JavaScript
+- **Current Stack:** Full web stack projects using MERN
 
-## Learning Milestones
-
-*The project may not be fully described as this aims to be brief; for more information, I made an effort to update the README files of each project!*
+## Current/Past Works
 
 ## • PadPal (Web Application Project)
 **2026 · Second Year · Course work · High Marks** 
