@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Philip A.
 
 ## About Me
-I’m a **second-year BSIT student** at **De La Salle University**, passionate about technology and building real-world skills. I’m currently exploring **web development**, **systems administration**, and **cybersecurity**.
+I’m a **third-year BSIT student** at **De La Salle University**, passionate about technology and building real-world skills. I’m currently exploring **web development**, **systems administration**, and **cybersecurity**.
 
 ## Skills & Learning
 - **Programming Languages:** C, Java, PHP, JavaScript, HTML, CSS
@@ -14,9 +14,9 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 ## • PadPal (Web Application Project)
 **2026 · Second Year · Course work · High Marks** 
 
-**Solo full stack development for PadPal for Managers!** 
+**What I Did: Solo full-stack development for PadPal for Managers!** 
 
-**🧠 API Integration (Nominatim / OpenStreetMap) · MERN Infrastructure · Multi-Phase Development · Full stack development** 
+**🧠Learned: API Integration (Nominatim / OpenStreetMap) · MERN Infrastructure · Multi-Phase Development · Full stack development** 
 
 *An all-in-one platform for rental space owners and students looking for roomates and spaces* 
 
@@ -35,9 +35,9 @@ I’m a **second-year BSIT student** at **De La Salle University**, passionate a
 ## • AECMS (Integrative Programming Project)
 **2026 · Second Year · Course work · High Marks**
 
-**Front and and backend exposure on XAMMP Stack**
+**What I Did: Front and and backend exposure on XAMMP Stack**
 
-**🧠 CRUD ARCHITECTURE FOR WEB · PHP foundations · HTML/CSS Foundations** 
+**🧠Learned: CRUD ARCHITECTURE FOR WEB · PHP foundations · HTML/CSS Foundations** 
 
 
 *A web application for online sellers using HTML/CSS/JS/PHP/SQL*
