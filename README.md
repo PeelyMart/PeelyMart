@@ -30,6 +30,16 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 </p>
 
 
+### Full-Stack Developer — Co-Living Platform
+
+Developed the **Space Manager-facing side** of a multi-user social platform designed to connect students seeking suitable roommates with Space Managers offering co-living accommodations.
+
+- Built and maintained full-stack features using the **MERN stack**, focusing on optimized forms, data handling, and user interactions.
+- Designed **dynamic and responsive web interfaces** for Space Managers to create and manage property listings.
+- Implemented the platform's key **API integration**, allowing Space Managers to enter a building location and select a nearby campus to automatically generate a **custom map displaying the property's location relative to the campus**.
+- Gained hands-on experience integrating **external APIs**, handling dynamic data, and connecting frontend interactions with backend services.
+- Worked across the frontend and backend to create a seamless workflow from **property input to dynamically generated location data**.
+
 ## • AECMS (Integrative Programming Project)
 *A web application for online sellers using HTML/CSS/JS/PHP/SQL*
 
@@ -38,8 +48,6 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 **What I Did: Front and and backend exposure on XAMMP Stack**
 
 **🧠Learned: CRUD ARCHITECTURE FOR WEB · PHP foundations · HTML/CSS Foundations** 
-
-
 
 
 🔗 https://github.com/PeelyMart/AECMS
