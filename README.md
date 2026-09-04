@@ -22,7 +22,7 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 
 <p align="center">
   <img src="padpal/PdPlAPI.gif" style="width:544px; height:306px; object-fit:cover;">
-  <img src="aecms/register.png" style="width:544px; height:306px; object-fit:cover;">
+  <img src="padpal/PdPlStats.jpeg" style="width:544px; height:306px; object-fit:cover;">
 </p>
 
 <p align="center">
