@@ -10,13 +10,13 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 ## Current/Past Works
 
 ## • PadPal (Web Application Project)
+*An all-in-one platform for rental space owners and students looking for roomates and spaces* 
+
 **2026 · Second Year · Course work · High Marks** 
 
 **What I Did: Solo full-stack development for PadPal for Managers!** 
 
 **🧠Learned: API Integration (Nominatim / OpenStreetMap) · MERN Infrastructure · Multi-Phase Development · Full stack development** 
-
-*An all-in-one platform for rental space owners and students looking for roomates and spaces* 
 
 🔗 https://github.com/ig21xn-dlsu/AY2526T3-CCDEVAP-MP.git
 
@@ -31,6 +31,8 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 
 
 ## • AECMS (Integrative Programming Project)
+*A web application for online sellers using HTML/CSS/JS/PHP/SQL*
+
 **2026 · Second Year · Course work · High Marks**
 
 **What I Did: Front and and backend exposure on XAMMP Stack**
@@ -38,7 +40,7 @@ I’m a **third-year BSIT student** at **De La Salle University**, passionate ab
 **🧠Learned: CRUD ARCHITECTURE FOR WEB · PHP foundations · HTML/CSS Foundations** 
 
 
-*A web application for online sellers using HTML/CSS/JS/PHP/SQL*
+
 
 🔗 https://github.com/PeelyMart/AECMS
 
